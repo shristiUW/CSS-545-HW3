@@ -74,7 +74,6 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
                   ),
                 ),
                 SizedBox(height: 20),
-                Text('Text will be saved automatically', style: TextStyle(fontSize: 16)),
               ],
             ),
           ),
